@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### python
+#### # 안녕하세요! 👋 저는 ehfl21입니다!
+
+
+
+## 📫 연락하기
+- 이메일: okmijn050529@naver.com
+
+
