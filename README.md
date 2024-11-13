@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### # 안녕하세요! 👋 저는 ehfl21입니다!
+#### 안녕하세요! 👋 저는 ehfl21입니다!
 
 
 
